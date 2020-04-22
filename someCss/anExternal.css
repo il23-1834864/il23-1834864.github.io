@@ -1,0 +1,42 @@
+.netflix{
+    font-family:"Arial"
+}
+.netflix2{
+    font-family:"Courier New"
+}
+.spongebobImg{
+    height: 50px;
+    width: 50px;
+}
+body{
+    background-color: yellowgreen;
+}
+.spongebob3{
+    width: 50%;
+    height: auto; 
+    margin: 20px;
+}
+.container{
+    position: relative;
+}
+.text{
+    position: absolute;
+    font-size: 50px;
+    top: 50px;
+    left: 100px;
+    color: white;
+    border-style: dotted;
+    border-width: 2px;
+}
+.FloatedElement{
+    float: right;
+    border-radius: 25px;
+    background: pink;
+    padding: 20px;
+    width: 300px;
+    height: 210px;
+}
+.spongebob{
+    width: 300px;
+}
+
